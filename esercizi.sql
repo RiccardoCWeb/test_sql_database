@@ -1,3 +1,4 @@
+--prima riga
 --1
 create database pizzeria_da_luigi;
 
